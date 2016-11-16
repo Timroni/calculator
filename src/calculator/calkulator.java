@@ -11,9 +11,9 @@ package calculator;
  */
 public class calkulator extends javax.swing.JFrame {
 
-    /**
-     * Creates new form calkulator
-     */
+    String angka;
+double jumlah,angka1,angka2;
+int pilih;
     public calkulator() {
         initComponents();
     }
